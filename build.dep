@@ -1,0 +1,7 @@
+env.compiler_flags = ['-std=c++11'];
+
+register({
+  id: 'FunctionalTest',
+  language: 'c++',
+  type: 'application'
+});
