@@ -1,0 +1,2 @@
+env.compiler_flags = ['-std=c++11', '-O2'];
+
